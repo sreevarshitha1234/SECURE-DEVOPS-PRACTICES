@@ -12,7 +12,7 @@
 
 *MENTOR NAME* : NEELA SANTOSH
 
-*TASH-3* : SECURE DEVOPS PRACTICES
+*TASH-4* : SECURE DEVOPS PRACTICES
 
 *We have to configure jenkins. Then we have to setup email, paths for Git;Maven;Java, Download plugins - Deploy to container;Git;Maven integration.
 *Configure pipeline with stages code checkout;mvn install;validate;test;compile;cleaning artifacts;war build;deploy to tomcat.
